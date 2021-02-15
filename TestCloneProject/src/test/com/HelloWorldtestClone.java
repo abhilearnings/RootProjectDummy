@@ -6,6 +6,7 @@ public class HelloWorldtestClone {
 		// TODO Auto-generated method stub
 		
 		// trying a test clone
+		// new edit
 
 	}
 
